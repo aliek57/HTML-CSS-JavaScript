@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <title> Exercício 1 </title>
+</head>
+
+<body>
+
+    <body>
+        <figure align="center">
+            <img widht="100" height="50" src="utfpr.png">
+        </figure>
+        <h2 align="center"> UTFPR - Universidade Tecnológica Federal do Paraná </h2>
+        <br>
+        <table border="1" cellpadding="5" align="center">
+            <tr bgcolor="black">
+                <th colspan="4">
+                    <font color="#F7DC6F"> Bacharelado em Ciências da Computação - 3º Período </font>
+                </th>
+            </tr>
+            <tr>
+                <td width="100" bgcolor="#A6ACAF"> <strong> Campus </strong> </td>
+                <td width="100" bgcolor="#A6ACAF"> <strong> Disciplina </strong> </td>
+                <td width="200" bgcolor="#A6ACAF"> <strong> Nome </strong> </td>
+                <td width="150" bgcolor="#A6ACAF"> <strong> Professor(a) </strong> </td>
+            </tr>
+            <tr>
+                <td> Santa Helena </td>
+                <td> CC23B </td>
+                <td> Sistemas Gerenciadores De Banco De Dados </td>
+                <td> Leiliane Pereira De Rezende </td>
+            </tr>
+            <tr>
+                <td bgcolor="#EAEDED"> Santa Helena </td>
+                <td bgcolor="#EAEDED"> CC23C </td>
+                <td bgcolor="#EAEDED"> Estrutura De Dados </td>
+                <td bgcolor="#EAEDED"> Thiago Franca Naves </td>
+            </tr>
+            <tr>
+                <td> Santa Helena </td>
+                <td> CC23D </td>
+                <td> Arquitetura E Organização De Computadores </td>
+                <td> Cláudio José Biazus </td>
+            </tr>
+            <tr>
+                <td bgcolor="#EAEDED"> Santa Helena </td>
+                <td bgcolor="#EAEDED"> CC23E </td>
+                <td bgcolor="#EAEDED"> Programação Orientada A Objetos </td>
+                <td bgcolor="#EAEDED"> Elenilton Jairo Dezengrini </td>
+            </tr>
+            <tr>
+                <td> Santa Helena </td>
+                <td> CC23F </td>
+                <td> Linguagem De Estruturação E Apresentação De Conteúdos </td>
+                <td> Giuvane Conti </td>
+            </tr>
+            <tr>
+                <td bgcolor="#EAEDED"> Santa Helena </td>
+                <td bgcolor="#EAEDED"> MA223A </td>
+                <td bgcolor="#EAEDED"> Cálculo Numérico </td>
+                <td bgcolor="#EAEDED"> Evandro Alves Nakajima </td>
+            </tr>
+        </table>
+        <br>
+        <a target="blank" href="https://sistemas2.utfpr.edu.br/login?returnUrl=%2Fdpls%2Fsistema%2Faluno13%2Fmpmenu.inicio">
+            <p align="center"> Portal do Aluno </p>
+        </a>
+        <a target="parent" href="https://moodle.utfpr.edu.br/login/index.php">
+            <p align="center"> Moodle Institucional </p>
+        </a>
+        <p align="center">
+            <strong> Endereço: </strong> Prolongamento da Rua Cerejeira, s/n Bairro - São Luiz, Santa Helena - PR, 85892-000 <br>
+            <strong> Telefone: </strong>
+            <font color="blue"> <u> (45) 3268-8800 </u> </font>
+        </p>
+    </body>
+</body>
+</html>
