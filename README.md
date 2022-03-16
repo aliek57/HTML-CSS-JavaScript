@@ -5,7 +5,7 @@
 <hr>
 <br><br>
 <h3> Estrutura básica HTML </h3>
-<a href="http://fabrica.ms.senac.br/wp-content/uploads/2013/04/estrutura-basica.png"> >>>>Aqui<<<< </a>
+<a href="http://fabrica.ms.senac.br/wp-content/uploads/2013/04/estrutura-basica.png"> >>>> Aqui <<<< </a>
 <br><br>
 <h3> Comandos e Tags do HTML5 </h3>
-<a href="https://www.devmedia.com.br/comandos-e-tags-html5/23618"> >>>>Aqui<<<< </a>
+<a href="https://www.devmedia.com.br/comandos-e-tags-html5/23618"> >>>> Aqui <<<< </a>
