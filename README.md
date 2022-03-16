@@ -9,3 +9,5 @@
 <br><br>
 <h3> Comandos e Tags do HTML5 </h3>
 <a href="https://www.devmedia.com.br/comandos-e-tags-html5/23618"> >>>> Aqui <<<< </a>
+<h3> Código das Cores HTML </h3>
+<a href="https://htmlcolorcodes.com/"> >>>> Aqui <<<< </a>
