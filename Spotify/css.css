@@ -1,0 +1,233 @@
+* {
+    box-sizing: border-box;
+    font-family: 'Arvo', serif;
+    margin: 0;
+    top: 0;
+}
+
+
+/* barra de navegação */
+
+.inicio {
+    width: 100%;
+    height: 80px;
+    background-color: black;
+}
+
+.inicio .img-inicio {
+    float: left;
+    width: 130px;
+    margin-top: 15px;
+    margin-bottom: 50px;
+    margin-left: 100px;
+}
+
+.inicio ul li {
+    list-style: none;
+    color: white;
+    font-weight: bold;
+    float: right;
+    margin-top: 30px;
+    margin-right: 35px;
+}
+
+.inicio .menu-item {
+    text-decoration: none;
+    color: white;
+}
+
+.inicio .menu-item:hover {
+    cursor: pointer;
+    color: rgb(51, 155, 51);
+}
+
+
+/* Texto 1 - Aproveite 1 mês...*/
+
+#text1 {
+    background-color: #2363ec;
+    height: 350px;
+}
+
+#text1 h1 {
+    font-size: 40px;
+    height: 20px;
+    margin-top: 35px;
+    margin-left: 90px;
+}
+
+#text1 .txt1 {
+    color: white;
+    margin: auto;
+    padding: 10px;
+}
+
+#text1 .txt1 p {
+    margin-left: 90px;
+    margin-top: 60px;
+    font-size: 20px;
+}
+
+#text1 .txt1 .bot1,
+.bot2 {
+    border-radius: 30px;
+    margin-top: 40px;
+    margin-left: 90px;
+    font-size: 20px;
+    padding: 10px;
+    width: 150px;
+    font-size: 15px;
+    font-weight: bold;
+    height: 50px;
+}
+
+#text1 .txt1 .bot1 {
+    color: white;
+    background-color: black;
+}
+
+#text1 .txt1 .bot1:hover {
+    border: 3px solid rgb(68, 70, 68);
+    cursor: pointer;
+}
+
+#text1 .txt1 .bot2 {
+    color: white;
+    background-color: #2363ec;
+    border-color: white;
+    margin-left: 3px;
+}
+
+#text1 .txt1 .bot2:hover {
+    border: 3px solid rgb(68, 70, 68);
+    cursor: pointer;
+}
+
+#text1 .rodape p {
+    color: white;
+    font-size: 10px;
+    margin-left: 105px;
+    margin-top: 40px;
+}
+
+#text1 .rodape a {
+    color: white;
+}
+
+
+/* Texto 2 - Por que ser Premium? */
+
+#text2 {
+    background-color: white;
+    height: 700px;
+}
+
+#text2 h1 {
+    color: black;
+    font-weight: bolder;
+    font-size: 40px;
+    text-align: center;
+    padding-top: 60px;
+}
+
+#text2 div {
+    display: inline-block;
+    padding-top: 65px;
+    margin: auto;
+    margin-left: 110px;
+}
+
+#text2 p {
+    height: 50px;
+    margin: auto;
+    padding-top: 20px;
+}
+
+#text2 b {
+    font-size: 20px;
+}
+
+
+/* Rodapé */
+
+#fim {
+    background-color: black;
+    height: 510px;
+    color: white;
+}
+
+#fim .img-fim {
+    float: left;
+    width: 130px;
+    margin-left: 100px;
+    padding-top: 60px;
+}
+
+#fim .menu-fim {
+    display: flex;
+    padding-top: 62px;
+    margin-left: 50px;
+}
+
+#fim .menu-fim p {
+    color: rgb(155, 154, 154);
+    font-weight: bold;
+    font-size: 12px;
+    padding-left: 50px;
+}
+
+#fim .menu-fim .menu-fim-item {
+    list-style: none;
+    padding: 10px;
+}
+
+#fim .menu-fim p {
+    color: rgb(155, 154, 154);
+    font-size: 10px;
+    font-weight: bold;
+    padding-left: 0px;
+}
+
+#fim .menu-fim .menu-fim-item a {
+    text-decoration: none;
+    color: white;
+}
+
+#fim .menu-fim .menu-fim-item a:hover {
+    cursor: pointer;
+    color: rgb(51, 155, 51);
+}
+
+#fim .fim-rodape {
+    font-size: 12px;
+    margin-left: 70px;
+}
+
+#fim .fim-rodape .fim-rodape-menu {
+    list-style: none;
+    display: flex;
+    padding: 20px;
+}
+
+#fim .fim-rodape .fim-rodape-menu a {
+    text-decoration: none;
+    color: white;
+}
+
+#fim .fim-rodape .fim-rodape-menu a:hover {
+    cursor: pointer;
+    color: rgb(51, 155, 51);
+}
+
+#fim .fim-rodape .fim-rodape-menu .fim-rodape-menu-item {
+    padding: 10px;
+    padding-top: 100px;
+    text-decoration: none;
+    font-size: 11.5px;
+}
+
+#fim .fim-rodape .direitos p {
+    text-align: left;
+    padding-left: 25.5px;
+    color: rgb(155, 154, 154);
+}
